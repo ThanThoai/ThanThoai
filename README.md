@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Bùi Thoại <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
-<h3 align="center">an AI Engineer from VietNam</h3>
+<h1 align="center">Hi https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137, I'm Bùi Thoại <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thanthoai" alt="thanthoai" /> </p>
+<p align="left"> <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br><br>
 
 - 🔭 I’m currently working on **VinBDI**
 
