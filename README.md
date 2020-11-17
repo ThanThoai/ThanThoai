@@ -1,4 +1,4 @@
-<h1 align="center">Hi https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137, I'm Bùi Thoại <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"/>, I'm Bùi Thoại <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 <p align="left"> <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br><br>
 
