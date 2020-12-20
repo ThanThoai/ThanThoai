@@ -3,7 +3,7 @@
 <!-- <p align="center"> <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br><br> -->
 
 - 🔭 I’m currently working on **VinBDI**
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanthoai&layout=compact&hide=html" alt="thanthoai" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanthoai&layout=compact&hide=html" alt="thanthoai" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanthoai&show_icons=true&theme=dark" alt="thanthoai" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanthoai&show_icons=true&theme=dark" alt="thanthoai" /></p> -->
 
